@@ -8,7 +8,7 @@
 
 <!-- /MarkdownTOC -->
 
-# 2016 ADAS Validation Code
+# 2019 ADAS Validation Code
 
 This repository supports the paper [Critical Scenario Clusters for Accelerated Automotive Safety Validation](https://www.overleaf.com/5844667qvyvfx#/19448268/) by Tim Wheeler and Mykel Kochenderfer.
 
