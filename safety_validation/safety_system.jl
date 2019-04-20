@@ -85,7 +85,7 @@ AutoMobius.get_attentive_driver_state(model::ZhaoAEB) = get_attentive_driver_sta
 
 function Base.rand(model::ZhaoAEB)
     if model.ticks_since_activation > 0
-        return StoppingAccel(max(model.brake, model.ticks_since_activation*model.brake_rate_limit))
+        return StoppingAccel(min(model.brake, model.ticks_since_activation*model.brake_rate_limit))
     else
         return rand(model.human)
     end
