@@ -10,7 +10,7 @@
 
 # 2019 ADAS Validation Code
 
-This repository supports the paper Critical Situation Clusters for Accelerated Automotive Safety Validation by Tim Wheeler and Mykel Kochenderfer, presented at IVS in 2019.
+This repository supports the paper [Critical Situation Clusters for Accelerated Automotive Safety Validation](http://timallanwheeler.com/aboutme/papers/wheeler2019clusters.pdf) by Tim Wheeler and Mykel Kochenderfer, presented at IVS in 2019.
 
 ## Git It
 
